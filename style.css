@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap");
 
@@ -13,15 +13,16 @@
   --md-dark-color: #1d1d1d;
   --dark-color: #171717;
   --light-dark-color: #292929;
-  --yellow-color: #d4aa11;
+  --yellow-color: #fb8500;
 
   --font-title: "Delicious Handrawn", cursive;
   --blue: #003566;
+  --light-blue: #003588;
   --white: #fff;
 }
 
 body {
-  font-family: var(--font-title);
+  font-family: "Poppins", sans-serif;
 }
 
 a {
@@ -59,6 +60,7 @@ img {
 .logo {
   padding: 1rem 0;
   border-bottom: 1px solid var(--light-dark-color);
+  font-family: var(--font-title);
 }
 
 .logo a {
@@ -77,8 +79,9 @@ img {
 
 #fav,
 #lastSearch {
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin-right: 10px;
+  font-family: "Poppins", sans-serif;
 }
 
 .nav-flex {
@@ -106,6 +109,7 @@ img {
   color: #fff;
   font-weight: 500;
   margin-bottom: 1.5rem;
+  font-family: var(--font-title);
 }
 
 .search-element .form-control {
@@ -129,7 +133,7 @@ img {
 }
 
 .search-list .search-list-item {
-  background-color: var(--light-dark-color);
+  background-color: var(--light-blue);
   padding: 0.5rem;
   border-bottom: 1px solid var(--dark-color);
   width: calc(350px - 8px);
@@ -139,7 +143,7 @@ img {
 }
 
 .search-list .search-list-item:hover {
-  background-color: #1f1f1f;
+  background-color: var(--blue);
 }
 
 .search-list-item {
