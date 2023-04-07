@@ -9,13 +9,13 @@
 }
 
 .delete-btn {
-  font-size: 1.5rem;
+  font-size: 1rem;
   border: none;
   outline: none;
   color: #fff;
   padding: 10px;
   border-radius: 50%;
-  background-color: red;
+
   position: absolute;
   bottom: 0.5%;
   right: 0.5%;
