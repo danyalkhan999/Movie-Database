@@ -35,11 +35,11 @@ About the Project :-
 
    🔴 Movie Details Page :-
   
-   ![image]([https://user-images.githubusercontent.com/62291769/201727429-7fce3c9f-1302-485b-a6cb-9368c0290635.png](https://scontent.fixr3-4.fna.fbcdn.net/v/t39.30808-6/340113304_610100057362440_2866837228446269973_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=ukLWQH8XziMAX82B9v9&_nc_ht=scontent.fixr3-4.fna&oh=00_AfC0whApYitbR12kLyYv4XMiSNUT5GLov7Srn1ow7B4EDQ&oe=6433F7BE))
+   ![image](https://scontent.fixr3-4.fna.fbcdn.net/v/t39.30808-6/340113304_610100057362440_2866837228446269973_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=ukLWQH8XziMAX82B9v9&_nc_ht=scontent.fixr3-4.fna&oh=00_AfC0whApYitbR12kLyYv4XMiSNUT5GLov7Srn1ow7B4EDQ&oe=6433F7BE)
 
    🔴 Favourite list page :-
   
-   ![image]([https://user-images.githubusercontent.com/62291769/201728442-8b8cd449-f682-473d-812a-f4ba985b065f.png](https://scontent.fixr3-3.fna.fbcdn.net/v/t39.30808-6/340008272_232356439299017_7775920679939047766_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=tv1myWsNAOsAX_jGCeC&_nc_ht=scontent.fixr3-3.fna&oh=00_AfB6UOpCM_mUTb5LvZkqcYYc-4GTxkWVnWo8y2oKK3UVNA&oe=64350199))
+   ![image](https://scontent.fixr3-3.fna.fbcdn.net/v/t39.30808-6/340008272_232356439299017_7775920679939047766_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=tv1myWsNAOsAX_jGCeC&_nc_ht=scontent.fixr3-3.fna&oh=00_AfA0yFpnMAyEn9ySM4um-SHVxrEeABZkJapooWvgfTsuYA&oe=64350199)
 
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------
